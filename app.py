@@ -113,7 +113,7 @@ if 'data' not in st.session_state:
                     'Analysis': 10,
                     'Creative': 9,
                     'Conversation': 8,
-                    'Current Info': 3
+                    'Current Info': 5
                 }
             },
             'Gemini': {
